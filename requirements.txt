@@ -1,0 +1,10 @@
+pytest
+playwright
+pytest-playwright
+pytest-html
+allure-pytest
+pytest-xdist
+openpyxl
+pyyaml
+faker
+python-dotenv
