@@ -1,2 +1,2 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Sun Oct 25 14:03:26 UTC 2026","Sun Oct 25 14:03:32 UTC 2026","5133","tests","test_login","","","","test_valid_login[chromium]",""
+"passed","Tue Oct 27 15:39:58 UTC 2026","Tue Oct 27 15:40:04 UTC 2026","5645","tests","test_login","","","","test_valid_login[chromium]",""
